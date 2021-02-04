@@ -1,3 +1,4 @@
 # Data-Visualization-using-GGplot2-Practice
 
-#Practice data visualization using Ggplot2
+#Practice data visualization in R using GGplot2
+
